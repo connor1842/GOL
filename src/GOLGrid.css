@@ -1,0 +1,7 @@
+#MainGrid {
+	width: 50%;
+	display: grid;
+	grid-template-columns: repeat(auto);
+	padding: 2px;
+	margin-left: 25%;
+}
